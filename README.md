@@ -99,9 +99,6 @@ Senior AI Engineer with **4+ years** building **production-grade Generative AI**
 <div align="center">
 
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=alkairis&rank_icon=github&hide_title=true&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue" />
-  &nbsp;
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=alkairis&layout=donut&langs_count=5&theme=shadow_blue" />
-
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&theme=react&hide_border=true" />
 
 </div>
