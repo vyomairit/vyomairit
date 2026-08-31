@@ -9,7 +9,7 @@ AGENTIC AI · RAG · AWS · GCP
 **Senior AI Engineer · Generative AI Systems · Technical Writer**
 
 ![Open to Collabs](https://img.shields.io/badge/Open%20to%20Collabs-1d9e75?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Indore%2C%20India-555?style=flat-square)
+![Location](https://img.shields.io/badge/Bengaluru%2C%20India-555?style=flat-square)
 ![Experience](https://img.shields.io/badge/4%2B%20yrs-555?style=flat-square)
 ![Handle](https://img.shields.io/badge/@alkairis-555?style=flat-square)
 
