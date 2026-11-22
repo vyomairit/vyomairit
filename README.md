@@ -11,11 +11,11 @@ AGENTIC AI · RAG · AWS · GCP
 ![Open to Collabs](https://img.shields.io/badge/Open%20to%20Collabs-1d9e75?style=flat-square&logoColor=white)
 ![Location](https://img.shields.io/badge/Bengaluru%2C%20India-555?style=flat-square)
 ![Experience](https://img.shields.io/badge/4%2B%20yrs-555?style=flat-square)
-![Handle](https://img.shields.io/badge/@alkairis-555?style=flat-square)
+![Handle](https://img.shields.io/badge/@vyomairit-555?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alkairis-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alkairis/)
-[![Twitter](https://img.shields.io/badge/Twitter-@alkairis__-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/alkairis_)
-[![Medium](https://img.shields.io/badge/Medium-@alkairis-000?style=flat-square&logo=medium)](https://medium.com/@alkairis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vyomairit-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vyomairit/)
+[![Twitter](https://img.shields.io/badge/Twitter-@vyomairit__-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/vyomairit_)
+[![Medium](https://img.shields.io/badge/Medium-@vyomairit-000?style=flat-square&logo=medium)](https://medium.com/@vyomairit)
 [![Email](https://img.shields.io/badge/Email-deepaksinghrajput0711-EA4335?style=flat-square&logo=gmail)](mailto:deepaksinghrajput0711@gmail.com)
 
 </div>
@@ -88,9 +88,9 @@ Senior AI Engineer with **4+ years** building **production-grade Generative AI**
 
 | Post | Tag |
 |---|---|
-| [Streamlining DB Migrations with Alembic + FastAPI](https://medium.com/@alkairis) | `DevOps` |
-| [Simplifying API Integration in React using Axios](https://medium.com/@alkairis) | `Frontend` |
-| [Why UV is Replacing Poetry for Python Project Management](https://medium.com/@alkairis) | `Tooling` |
+| [Streamlining DB Migrations with Alembic + FastAPI](https://medium.com/@vyomairit) | `DevOps` |
+| [Simplifying API Integration in React using Axios](https://medium.com/@vyomairit) | `Frontend` |
+| [Why UV is Replacing Poetry for Python Project Management](https://medium.com/@vyomairit) | `Tooling` |
 
 ---
 
@@ -98,8 +98,8 @@ Senior AI Engineer with **4+ years** building **production-grade Generative AI**
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=alkairis&rank_icon=github&hide_title=true&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue" />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=vyomairit&rank_icon=github&hide_title=true&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=vyomairit&theme=react&hide_border=true" />
 
 </div>
 
